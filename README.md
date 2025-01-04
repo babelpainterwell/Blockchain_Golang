@@ -1,1 +1,1 @@
-# Blockchain_Golang
+implements a basic blockchain in Go. Each block in the chain contains data, a reference to the previous block's hash, and a unique hash derived from its content. The blockchain starts with a "Genesis" block, and new blocks can be added with custom data.
